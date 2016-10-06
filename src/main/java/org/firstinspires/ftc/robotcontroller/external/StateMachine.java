@@ -22,7 +22,7 @@ import com.qualcomm.robotcore.util.Range;
             PARK_ON_PLATFORM,
             STOP
             }
-// possible values for state because it is an enum
+// possible values for state because it is an enum type
 
 public class StateMachine extends OpMode {
 
